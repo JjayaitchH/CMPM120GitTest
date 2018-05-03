@@ -11,3 +11,6 @@ var lastName = "Hernandez";
 
 var sentence = "I am writing this in vim because Windows git bash doesn't let me use sublime text please send help";
 
+var num = 10000;
+var num2 = 3000;
+var num3 = 4;
