@@ -14,3 +14,5 @@ var sentence = "I am writing this in vim because Windows git bash doesn't let me
 var num = 10000;
 var num2 = 3000;
 var num3 = 4;
+
+var newVar = 'newVar';
