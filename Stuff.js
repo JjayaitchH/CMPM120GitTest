@@ -4,3 +4,8 @@ var Stuff = function(a, b, c)
 	this.b = b;
 	this.c = c;
 };
+
+var firstName = "Juan";
+
+var lastName = "Fernandez";
+
